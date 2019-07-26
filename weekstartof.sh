@@ -6,7 +6,7 @@
 #
 # 参考URLのスクリプトを目的に合わせて修正した
 # see => https://stackoverflow.com/a/15606900
-function week_start_of()
+week_start_of()
 {
     local year=$1 week=$2
     local week_num_of_Jan_1 week_day_of_Jan_1
